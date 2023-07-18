@@ -21,8 +21,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Frontend Mentor SOlution](https://github.com/beowulfcodes/nft-preview-card-component-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-flexbox-5W1zrDR-ha)
+- Live Site URL: [NFT Preview Card Component Live Site](https://beowulfcodes.github.io/nft-preview-card-component-challenge/)
 
 ## My process
 
